@@ -19,7 +19,7 @@
 <hr>
 <br>
 
-##<b>Github Stats</b>
+## <b>Github Stats</b>
 
 <br>
 
