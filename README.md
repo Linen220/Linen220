@@ -58,7 +58,7 @@
 ![Linen's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Linen220&custom_title=Linen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <a href="https://komarev.com/ghpvc/?username=Linen220">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Linen220&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Linen220&label=Visitors&color=025464&style=flat" alt="Profile visitor" />
 </a>
 
 <!--
