@@ -16,6 +16,10 @@
 
 
 <br>
+<hr>
+<br>
+
+## Github Stats
 
 <p align="center">
   <a href="https://github.com/Linen220">
