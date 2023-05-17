@@ -20,7 +20,7 @@
   <br/>
 </a>
 
-![Linen's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Linen220&custom_title=Li%20nen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Linen's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Linen220&custom_title=Linen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <!--
 **Linen220/Linen220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
