@@ -14,9 +14,9 @@
 <!-- About Section -->
 # About me
 <p>
-  👨‍💻 &emsp; I'm always open to new ideas and opportunities to collaborate with other passionate developers.
-  ⚡ &emsp; I'm interested in front-end technologies and eager to learn them.
-  👩‍💻 &emsp; Love to writing code and learning new features.
+  👨‍💻 &emsp; I'm always open to new ideas and opportunities to collaborate with other passionate developers. <br>
+  ⚡ &emsp; I'm interested in front-end technologies and eager to learn them.<br>
+  👩‍💻 &emsp; Love to writing code and learning new features.<br>
   🌱 &emsp; I’m currently learning **React**.
 </p>
 
