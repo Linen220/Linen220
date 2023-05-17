@@ -13,12 +13,10 @@
 
 <!-- About Section -->
 # About me
-<p>
   - ✌️ I'm always open to new ideas and opportunities to collaborate with other passionate developers. <br>
   - ⚡ I'm interested in front-end technologies and eager to learn them.<br>
   - 👩‍💻 Love to writing code and learning new features.<br>
   - 🌱 I’m currently learning **React**.
-</p>
 
 <br>
 
