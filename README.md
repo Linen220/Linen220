@@ -14,8 +14,10 @@
 <!-- About Section -->
 # About me
 <p>
-  
-  🌱 &emsp; I’m currently learning **React**
+  👨‍💻 &emsp; I'm always open to new ideas and opportunities to collaborate with other passionate developers.
+  ⚡ &emsp; I'm interested in front-end technologies and eager to learn them.
+  👩‍💻 &emsp; Love to writing code and learning new features.
+  🌱 &emsp; I’m currently learning **React**.
 </p>
 
 
@@ -30,13 +32,12 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 <br>
-<hr>
-<br>
+<!-- <hr>
+<br> -->
 
 ## <b>Github Stats</b>
 
 <br>
-
 <!-- <p align="center">
   <a href="https://github.com/Linen220">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linen220&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
@@ -60,18 +61,3 @@
 <a href="https://komarev.com/ghpvc/?username=Linen220">
   <img align="right" src="https://komarev.com/ghpvc/?username=Linen220&label=Visitors&color=025464&style=flat" alt="Profile visitor" />
 </a>
-
-<!--
-**Linen220/Linen220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
