@@ -54,7 +54,7 @@
 </a>
 
 <!-- 7F3FBF -->
-<!-- ![Linen's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Linen220&custom_title=Linen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6D67E4&line=6D67E4&point=6D67E4&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
+![Linen's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Linen220&custom_title=Linen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6D67E4&line=6D67E4&point=6D67E4&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <a href="https://komarev.com/ghpvc/?username=Linen220">
   <img align="right" src="https://komarev.com/ghpvc/?username=Linen220&label=Visitors&color=025464&style=flat" alt="Profile visitor" />
